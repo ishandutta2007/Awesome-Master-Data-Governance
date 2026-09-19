@@ -3,7 +3,7 @@
 ![Awesome Master Data Governance Banner](assets/banner.svg)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38/badge.svg" alt="Awesome List"/></a> <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Master-Data-Governance?style=flat-square" alt="Last Commit"/> <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Master-Data-Governance?style=flat-square" alt="License"/>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38/badge.svg" alt="Awesome List"/></a> <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Master-Data-Governance?style=flat-square" alt="Last Commit"/> <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Master-Data-Governance?style=flat-square" alt="License"/> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## 🚀 Overview & Ecosystem Guide
@@ -22,6 +22,8 @@ Master Data Governance ensures an organization maintains a single, trusted "gold
 - [🏗️ Architectural Blueprint for Custom MDM](#️-architectural-blueprint-for-custom-mdm)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 Disclaimer](#-disclaimer)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -111,13 +113,13 @@ Below is a curated selection of top open-source projects for **Product Informati
 │  Data Sources   │ ──>│  Quality & Rules │ ──>│  Entity Resolution  │ ──>│  Golden Record   │
 │ (CRM, ERP, PIM) │    │(GreatExpectations)│    │   (Dedupe/Matching) │    │   Data Store     │
 └─────────────────┘    └──────────────────┘    └─────────────────────┘    └──────────────────┘
-                                                                                   │
-                                                                                   ▼
-                                                                          ┌──────────────────┐
-                                                                          │ Metadata Catalog │
-                                                                          │ (OpenMetadata/   │
-                                                                          │     DataHub)     │
-                                                                          └──────────────────┘
+                                                                                    │
+                                                                                    ▼
+                                                                           ┌──────────────────┐
+                                                                           │ Metadata Catalog │
+                                                                           │ (OpenMetadata/   │
+                                                                           │     DataHub)     │
+                                                                           └──────────────────┘
 ```
 
 When engineering a custom open-source Master Data Management solution:
@@ -145,4 +147,22 @@ Contributions are warmly welcomed! To suggest a new SaaS platform or Open-Source
 *This list is community-curated for informational and educational purposes. Product pricing, trial limits, and enterprise valuation figures are based on publicly available data, analyst reports, and vendor documentation as of 2026. Master Data Management architectures involve critical business data and compliance requirements; evaluate each solution according to your enterprise security, privacy, and operational standards.*
 
 ---
+
+## 💖 Support & Community
+
+Thank you for exploring this curated repository! If you find this list helpful for your organization or projects, please consider supporting us:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** it to keep a copy or contribute updates.
+- 📢 **Share** it with fellow data governance leaders, MDM architects, and data engineers.
+- ☕ **Sponsor / Buy a Coffee**: Support ongoing maintenance and curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Master-Data-Governance&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Master-Data-Governance&type=date&legend=top-left)
+
+---
+
 <p align="center">Made with ❤️ for Data Governance Leaders, MDM Architects, and Enterprise Data Engineers.</p>
