@@ -54,7 +54,7 @@ Below is a detailed comparison of market-leading SaaS and Enterprise Master Data
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated selection of top open-source projects for **Product Information Management (PIM)**, **Data Governance Catalogs**, **Data Quality Frameworks**, and **Entity Resolution Libraries**, sorted by **GitHub Star Count** in **descending** order.
+Below is a curated selection of top open-source projects for **Product Information Management (PIM)**, **Data Governance Catalogs**, **Data Quality Frameworks**, and **Entity Resolution Libraries**, sorted by **GitHub Stars_Count** in **descending** order.
 
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)**  
   [![OpenMetadata Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social)](https://github.com/open-metadata/OpenMetadata/stargazers)  
